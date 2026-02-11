@@ -12,6 +12,12 @@ Your one-stop solution for easy WordPress database management
 
 == Description ==
 
+**⚠️ WARNING**
+
+**SQL Buddy is no longer actively maintained.**
+
+This software is still free to use under the license provided, but users should be aware that it is not currently maintained. No additional releases, including security releases, will be made available.
+
 Your one-stop solution for WordPress database management. Edit your table data with a clean and straightforward user interface.
 
 SQL Buddy is a WordPress plugin that makes it easy to manage your database table contents right from your WordPress dashboard.
